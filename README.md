@@ -29,5 +29,5 @@ The project follows clean, **Layered Architecture** principles:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Fany-py-dev/fastapi_order_service.git](https://github.com/Fany-py-dev/fastapi_order_service.git)
-   cd fastapi_order_service
+   git clone [https://github.com/Fany-py-dev/fastapi-order-service.git](https://github.com/Fany-py-dev/fastapi-order-service.git)
+   cd fastapi-order-service
